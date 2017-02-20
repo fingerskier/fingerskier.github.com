@@ -1,4 +1,4 @@
-[Home](fingerskier.github.com)
+[Home](http://fingerskier.github.io/)
 
 [Code](https://github.com/fingerskier)
 

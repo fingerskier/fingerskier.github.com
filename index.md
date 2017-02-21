@@ -1,7 +1,5 @@
 # {{ site.github.project_title }} 
 
-
-## fingerskier
-
+{{ > main }}
 
 {{ > nav }}

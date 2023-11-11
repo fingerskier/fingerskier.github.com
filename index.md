@@ -1,5 +1,0 @@
----
----
-# fingerskier
-
-## learnings
